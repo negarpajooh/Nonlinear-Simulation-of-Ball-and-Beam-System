@@ -1,0 +1,1 @@
+global m R M g L Jr J x0 vars  A B C D k1 k2
